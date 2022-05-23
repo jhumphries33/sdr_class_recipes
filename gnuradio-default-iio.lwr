@@ -29,6 +29,8 @@ config:
       optional: True
     doxygen:
       optional: True
+    gnuradio:
+      gitbranch: maint-3.8
     gqrx:
       forcebuild: True
     gr-display:
